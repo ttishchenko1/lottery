@@ -58,3 +58,8 @@ table td {
 .winnersSection span {
     font-weight: bold;
 }
+@media screen and (max-width: 767px) {
+	.winnersSection p {
+    	display: block;
+	}
+}
